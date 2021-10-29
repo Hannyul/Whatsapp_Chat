@@ -1,0 +1,66 @@
+* {
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.App-logo {
+    height: 10vmin;
+    pointer-events: none;
+    opacity: 0.4;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 10s linear;
+    }
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+div,
+.form-design {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 1%;
+}
+
+.form-design label {
+    display: block;
+    padding: 4%;
+    margin-bottom: 4%;
+}
+
+.form-design input {
+    border-radius: 0.3em;
+    padding: 5%;
+}
+
+.error {
+    color: red;
+}
+
+.btn {
+    text-decoration: none;
+    color: black;
+    background-color: #21CC42;
+    opacity: 0.8;
+    padding: 5%;
+    border-radius: 0.3em;
+}
+
+footer {
+    border-top: 2px dashed #21CC42;
+    padding: 1%;
+    margin-top: 10%;
+    font-style: italic;
+}
