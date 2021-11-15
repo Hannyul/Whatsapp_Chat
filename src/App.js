@@ -9,6 +9,7 @@ export default class App extends Component {
         <img src="https://gfx4arab.com/wp-content/uploads/2020/06/whatsapp-glyph-black.svg" className="App-logo" alt="logo" />
         <WhatsAppLink />
         <footer>*Just Paste/Write the number to be directed to WhatsApp.</footer>
+        <p>//~ Hanaa Alharbi</p> 
       </div>
     )
   }

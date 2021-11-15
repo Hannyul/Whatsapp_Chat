@@ -28,7 +28,7 @@ export default class MobileInput extends Component {
         return (
             <div>
                 <form className="form-design">
-                    <label>Mobile: </label>
+                    <label>Mobile No.: </label>
                     <input type="text" name="phone" onChange={this.handleInputChange} />
                 </form>
                 <p className="error">{this.state.errors}</p>
