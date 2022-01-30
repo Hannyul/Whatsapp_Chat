@@ -1,6 +1,6 @@
 # WhatsApp Direct Chat - Without Saving the number
 
-A simple app to start WhatsApp chat.
+A tool to start WhatsApp chat with no need to save the number.
 
 ## Code 
 Saudi Phone Regex: 
