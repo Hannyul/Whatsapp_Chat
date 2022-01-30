@@ -1,4 +1,4 @@
-# WhatsApp Starting-Chat 
+# WhatsApp Direct Chat - Without Saving the number
 
 A simple app to start WhatsApp chat.
 
